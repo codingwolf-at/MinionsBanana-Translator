@@ -1,0 +1,13 @@
+body {
+    font-family: cursive;
+}
+
+textarea {
+    display: block;
+    margin: 2rem auto ;
+}
+
+button {
+    display: block;
+    margin: auto;
+}
