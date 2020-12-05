@@ -1,5 +1,6 @@
 body {
     font-family: cursive;
+    background-color: yellow;
 }
 
 textarea {
@@ -12,5 +13,12 @@ textarea {
 button {
     display: block;
     margin: auto;
-    padding: 1rem;
+    padding: 1rem 2rem;
+    font-family: cursive;
+    border-radius: 1rem;
+}
+
+button:hover {
+    background-color:red;
+    color: seashell;
 }
