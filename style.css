@@ -74,3 +74,10 @@ footer p {
     margin: auto;
     padding-bottom: 2rem;
 }
+
+footer a {
+    text-decoration: none;
+    background-color: white;
+    padding: 0rem 0.5rem;
+    color: black;
+}
